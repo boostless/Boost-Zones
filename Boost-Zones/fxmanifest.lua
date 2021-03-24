@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5' 
 
-author 'Boost#0787'
+author 'Boost#4383'
 description 'Boost-Zones UI'
 version '1.0.0'
 
